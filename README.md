@@ -1,3 +1,4 @@
+                           #STEPS TO FOLLOW
 Step 1 : Clone The Repository<br>
                use this code 
                            <em>git clone  <strong>github link</strong> </em><br>
